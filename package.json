@@ -1,0 +1,19 @@
+{
+  "name": "prince_auriga",
+  "version": "1.0.1",
+  "description": "My very first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukdam/first-module.git"
+  },
+  "author": "prince_auriga <prince.yadav@aurigait.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukdam/first-module/issues"
+  },
+  "homepage": "https://github.com/mukdam/first-module#readme"
+}
